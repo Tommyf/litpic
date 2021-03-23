@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "litpic601be7ac": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
